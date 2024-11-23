@@ -24,3 +24,5 @@ Future Enhancements:
 Advanced Filtering: Implement filters to display specific types of results (e.g., open ports, vulnerable services).
 Export Results: Allow users to export scan results to CSV or other formats.
 Security Integration: Integrate with vulnerability scanning tools to identify potential security risks.
+
+This software is licensed under the LGPL v. 3.
