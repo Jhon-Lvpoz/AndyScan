@@ -19,6 +19,7 @@ Note:
 
 Ethical Usage: Always use this tool responsibly and ethically. Avoid scanning networks without explicit permission.
 Legal Considerations: Be aware of local laws and regulations regarding network scanning.
+
 Future Enhancements:
 
 Advanced Filtering: Implement filters to display specific types of results (e.g., open ports, vulnerable services).
